@@ -1,0 +1,11 @@
+To write an algorithm and flowchart to find the 2nd largest number
+
+
+Algorithm:
+
+Step 1: Declare an integer array
+Step 2: Get the size of the array from user as ‘i’
+Step 3: Get the inputs 
+Step 4: Check if i < 2, if yes print invalid number of inputs and stop the execution
+Step 5: Else sort the array in descending order
+Step 6: Print the first index (i.e) second element of the array as the second largest number  
